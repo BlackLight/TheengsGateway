@@ -20,7 +20,7 @@ except SKBuildError:
 
 setup(
     name="TheengsGateway",
-    version="version_tag",
+    version="0.8.1",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Theengs",
